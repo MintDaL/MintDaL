@@ -2,14 +2,10 @@
 
 
 
-	<img src="https://giphy.com/gifs/by-me-3-PR7J3rrNCrFE4" />
-
-
-
 
 ### A little more about me...
 
- - My realname is **Nguyễn Đỗ Thành Minh**
+ - My real name is **Nguyễn Đỗ Thành Minh**
 
  - I'm young brother of **[ProCoderMew](https://github.com/ProCoderMew)**
 
