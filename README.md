@@ -3,6 +3,23 @@
 
 
 
-### <img scr="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### A little more about me...
+
+ - My realname is **Nguyễn Đỗ Thành Minh**
+
+ - I'm young brother of **[ProCoderMew](https://github.com/ProCoderMew)**
+
+ - I live in **Da Nang**
+
+
+### Social and contact:
+
+ - Facebook: [Nguyễn Minhh](https://facebook.com/MyNameIsMintDaL)
+
+ -  Email: [minhh.nguyen204@gmail.com](mailto:minhh.nguyen204@gmail.com)
+ 
+ - Website: [MintDaL Website](https://mint.bio.link)
+
+ - Github: [MintDaL](https://glitch.com/MintDaL)
 
 
