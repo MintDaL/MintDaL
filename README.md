@@ -4,7 +4,7 @@
 
 	<img src="https://giphy.com/gifs/by-me-3-PR7J3rrNCrFE4" />
 
-</p>
+
 
 
 ### A little more about me...
