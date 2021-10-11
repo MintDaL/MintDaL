@@ -2,7 +2,7 @@
 
 <p align="center">
 
-	<img align="center" alt="GIF" src="https://giphy.com/gifs/by-me-3-PR7J3rrNCrFE4 " />
+	<img align="center" alt="GIF" src="https://giphy.com/gifs/by-me-3-PR7J3rrNCrFE4" />
 
 </p>
 
