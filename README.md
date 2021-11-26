@@ -17,7 +17,7 @@
 
  -  Email: [minhh.nguyen204@gmail.com](mailto:minhh.nguyen204@gmail.com)
  
- - Website: [MintDaL Website](https://mint.bio.link)
+ - Website: [MintDaL's Website](https://mint.bio.link)
 
  - Github: [MintDaL](https://glitch.com/MintDaL)
 
