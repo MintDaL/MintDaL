@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Mint+!;Welcome+to+my+Github+!)](https://git.io/typing-svg)
 
-<img src="assets/header.svg"></img>
 
 ## :space_invader: &nbsp;About Me
-
 
  - My real name is **Nguyễn Đỗ Thành Minh**
 
