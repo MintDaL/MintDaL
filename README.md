@@ -49,6 +49,6 @@
 /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=MewDevPro&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/MewDevPro/MewDevPro?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=MintDaL&style=plastic&label=Views" />
+<img src="https://badges.pufler.dev/visits/MewDevPro/MintDaL?color=black&logo=github" />
 </p>
