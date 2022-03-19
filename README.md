@@ -46,13 +46,7 @@
   <br>
   <br>
   <a href="https://www.instagram.com/mintdal.204/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-<p/>
-<br>
-<br>
-<br>
-<br>
-<hr/>
-    
+/></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=MewDevPro&style=plastic&label=Views" />
