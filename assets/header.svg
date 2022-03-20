@@ -172,7 +172,7 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="2">
+      font-weight="bold" letter-spacing="1">
   <textPath xlink:href="#nameTyping" >
       MintDaL
   </textPath>
