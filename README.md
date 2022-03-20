@@ -40,7 +40,7 @@
   
   <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
   If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
-  I have several BotChat in mintdal.glitch.me
+  I have some **[BotChat](https://mintdal.glitch.me)** for Messenger and Discord
   
   <a href="mailto:mintdal.204@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/MyNameIsMintDaL"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
