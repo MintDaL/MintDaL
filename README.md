@@ -5,7 +5,7 @@
 - ✨ My real name is **Nguyễn Đỗ Thành Minh**
 - ✨ I live in **DaNang**
 - ✨ I'm young brother of **[Mew](https://github.com/MeewMeew)**
-- ✨ I have a normal DiscordBot **[here](https://mintdal.glitch.me](https://discord.com/api/oauth2/authorize?client_id=987606033264410625&permissions=3196928&scope=bot%20applications.commands)**
+- ✨ I have a normal DiscordBot **[here](https://discord.com/api/oauth2/authorize?client_id=987606033264410625&permissions=3196928&scope=bot%20applications.commands)**
 
 ### - Hobbies : 
 - ✨ Playing game
